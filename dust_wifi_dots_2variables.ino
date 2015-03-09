@@ -9,6 +9,8 @@
  JST Pin 1 (Black Wire)  => Arduino GND
  JST Pin 3 (Red wire)    => Arduino 5VDC
  JST Pin 4 (Yellow wire) => Arduino Digital Pin 8
+ 
+ Author: Rodrigo Carbajales MarconiLab
  */
 #include <WiFi.h>
 
